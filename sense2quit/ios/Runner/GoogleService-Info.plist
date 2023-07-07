@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>532794097721-nofk30fvbmsu6firtcqvi72sl5ganah9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.532794097721-nofk30fvbmsu6firtcqvi72sl5ganah9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPRT1oVT0xRgkzAHEjYrmbz3xvS_jyNXI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>532794097721</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sense2quit</string>
+	<key>PROJECT_ID</key>
+	<string>flutterapp-a1b25</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterapp-a1b25.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:532794097721:ios:75af20a45ed62ebe98cde8</string>
+</dict>
+</plist>

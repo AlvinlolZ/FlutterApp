@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "532794097721",
+    "project_id": "flutterapp-a1b25",
+    "storage_bucket": "flutterapp-a1b25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532794097721:android:c40b1ce11dcbf1a198cde8",
+        "android_client_info": {
+          "package_name": "com.example.sense2quit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532794097721-u2q4qbc7p45io4tciuchkh5281kod58k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIkw0IHKjqzhzi95pr-M31g2LJjYz3JAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532794097721-u2q4qbc7p45io4tciuchkh5281kod58k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532794097721-9nd1pf0nioq5no0qlut37pt50avva09u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sense2quit.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
